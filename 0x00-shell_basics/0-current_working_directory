@@ -1,2 +1,2 @@
 #!/bin/bash \n
-root@7c774256d670:/# pwd \n
+$ ./0-current_working_directory pwd
